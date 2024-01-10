@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Eldon Hernandez</h1>
 <h3 align="left">"Hey there! I'm Eldon, a passionate developer diving headfirst into the fascinating world of Blockchain technology. With almost two decades of experience as a front-end developer, I've embarked on an exciting journey to level up my skills in Blockchain Development. From HTML, CSS, and JavaScript to mastering React, Solidity, and Redux, I'm honing my craft to create innovative solutions in the decentralized space.</h3>
 
-- 👨‍💻 All of my projects are available at [https://blockchain.eldonhernandez.com](https://blockchain.eldonhernandez.com)
+- 👨‍💻 You can see my projects at [https://blockchain.eldonhernandez.com](https://blockchain.eldonhernandez.com)
 
 - 📫 How to reach me **eldonhernandez@gmail.com**
 
